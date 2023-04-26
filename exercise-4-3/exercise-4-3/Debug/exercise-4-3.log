@@ -1,0 +1,12 @@
+﻿Build started 18-11-2014 13:21:35.
+     1>Project "I:\Projects\exercise-4-3\exercise-4-3\exercise-4-3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\exercise-4-3.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "exercise-4-3.cpp"
+         exercise-4-3.cpp
+     1>i:\projects\exercise-4-3\exercise-4-3\exercise-4-3.cpp(17): warning C4101: 'C' : unreferenced local variable
+     1>i:\projects\exercise-4-3\exercise-4-3\exercise-4-3.cpp(32): error C4700: uninitialized local variable 'C' used
+     1>Done Building Project "I:\Projects\exercise-4-3\exercise-4-3\exercise-4-3.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.96
